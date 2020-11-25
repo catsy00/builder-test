@@ -1,2 +1,2 @@
-FROM registry.redhat.io/ubi8/nginx-118:latest
+FROM hub.docker.com/nginx:latest
 ENTRYPOINT /bin/sh
